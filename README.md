@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Juan Manuel Villalón</h1>
-<h3 align="center">A passionate software developer from Spain</h3>
+<h1 align="center">Hola, mi nombre es Juan Manuel Villalón 👋</h1>
+<h3>Desarrollador de software</h3>
 
-- 🌱 I’m currently learning **DevOps**
+<p>
+  Soy un desarrollador de software desde 2022 <br>
+  Me apasiona seguir aprendiendo lenguajes y metodologías de programación, actualmente estoy aprendiendo DevOps.
+</p>
 
-- 📫 How to reach me **villalonjimenezjuanmanuel@gmail.com**
+- 📫Contáctame en: **villalonjimenezjuanmanuel@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://instagram.com/juanmavillalonj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanmavillalonj" height="30" width="40" /></a>
 </p>
